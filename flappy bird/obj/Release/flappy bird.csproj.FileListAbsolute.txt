@@ -1,0 +1,8 @@
+C:\Users\KHURAM\Documents\Visual Studio 2013\Projects\flappy bird\flappy bird\bin\Release\flappy bird.exe.config
+C:\Users\KHURAM\Documents\Visual Studio 2013\Projects\flappy bird\flappy bird\bin\Release\flappy bird.exe
+C:\Users\KHURAM\Documents\Visual Studio 2013\Projects\flappy bird\flappy bird\bin\Release\flappy bird.pdb
+C:\Users\KHURAM\Documents\Visual Studio 2013\Projects\flappy bird\flappy bird\obj\Release\flappy_bird.mainForm.resources
+C:\Users\KHURAM\Documents\Visual Studio 2013\Projects\flappy bird\flappy bird\obj\Release\flappy_bird.Properties.Resources.resources
+C:\Users\KHURAM\Documents\Visual Studio 2013\Projects\flappy bird\flappy bird\obj\Release\flappy bird.csproj.GenerateResource.Cache
+C:\Users\KHURAM\Documents\Visual Studio 2013\Projects\flappy bird\flappy bird\obj\Release\flappy bird.exe
+C:\Users\KHURAM\Documents\Visual Studio 2013\Projects\flappy bird\flappy bird\obj\Release\flappy bird.pdb
